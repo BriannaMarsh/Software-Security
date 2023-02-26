@@ -1,1 +1,6 @@
 # Software-Security
+
+  In this Project, I am a Software Developer that works for a company called Global Rain that specializes in custom software design and development. 
+Our current client is Artemis Financials, where this company specializes savings, investments, and insurance. The issues that they want my company to adderess is current and effective software, protection of clients data and financial information, an added file verification step, and added secure software security requirements. When I found my clients software vulnerabilities, I recommended an appropriate encryption algorithm cipher to deploy. It is important to secure code so that it cannot be hackable. Softeware security ensures that a company is not defense less against hackers and scammers. The dependency chart was the most helpful to me. I implemented layers of security by implementing AES. In the future I will always use the Maven- install to get the route to my dependency chart, in order to obtain my vulnerabilities. I made sure that the code was functional and secure by running another Maven-install, connected to my dependency chart, and then obtained the new security dependency chart. I made sure that my code was neat with the proper indentions and spacing. For future employers, I hope to show my professionalism in creating a Security Software Report.
+
+Brianna Marsh;
